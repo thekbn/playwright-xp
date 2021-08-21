@@ -1,0 +1,11 @@
+{
+  "name": "playwright-xp",
+  "version": "1.0.0",
+  "description": "Simple Playwright Experiment",
+  "main": "index.js",
+  "author": "thekbn@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.14.0"
+  }
+}
